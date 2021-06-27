@@ -26,3 +26,9 @@ Additionally, interval data can be generated through rounding continuous data at
 **One-Sample t-Test** compare the mean of one dataset to another under a few assumptions, determine whether there's a statistical difference between means of a sample dataset and a hypothesized, potential population dataset. 1) there is no stat difference, 2) there is a stat difference
 
 **Two-Sample t-Test** determines whether the means of two samples are statistically different. 5 assumptions
+
+**ANOVA Test** analysis of variance: used to compare the means of a continuous numerical variable across a number of groups (or factors in R), expects all observations and grouping are in one data frame. use aov()
+  1. one-way ANOVA: used to test the means of a single dependent variable across a single independent variable with multiple groups
+  2. two-way ANOVA: tests with two different variables (eg, vehicle braking distance based on weather conditions and transmission type)
+
+**Correlation Analysis** identifies how strongly or weakly variables are related. Pearson correlation coefficient to calculate correlation strength
