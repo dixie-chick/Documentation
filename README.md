@@ -23,4 +23,6 @@ Additionally, interval data can be generated through rounding continuous data at
 
 **Understand Skew** Left Skew: negative skew, left tail is longer than right making the mean no longer reflecting the central tendancy. Right Skew, positive skew if right tail is longer than left making extreme positive values exist in data set. Median should be used to describe central tendency of data
 
-**One-Sample t-Test** compare the mean of one dataset to another under a few assumptions
+**One-Sample t-Test** compare the mean of one dataset to another under a few assumptions, determine whether there's a statistical difference between means of a sample dataset and a hypothesized, potential population dataset. 1) there is no stat difference, 2) there is a stat difference
+
+
