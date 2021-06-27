@@ -32,3 +32,5 @@ Additionally, interval data can be generated through rounding continuous data at
   2. two-way ANOVA: tests with two different variables (eg, vehicle braking distance based on weather conditions and transmission type)
 
 **Correlation Analysis** identifies how strongly or weakly variables are related. Pearson correlation coefficient to calculate correlation strength
+
+**Linear Regression** statistical model that is used to predict a continous 
