@@ -19,4 +19,6 @@ Typically, **numerical data** is obtained by taking a measurement from an instru
 
 Additionally, interval data can be generated through rounding continuous data at the cost of losing precision of the measurement. Therefore, interval data can be used by most statistical models as either a quantitative or qualitative variable, depending on the use case.
 
-P-Value: if p-value > 0.05, data is normally distributed
+**P-Value:** if p-value > 0.05, data is normally distributed
+
+**Understand Skew** Left Skew: negative skew, left tail is longer than right making the mean no longer reflecting the central tendancy. Right Skew, positive skew if right tail is longer than left making extreme positive values exist in data set. Median should be used to describe central tendency of data
